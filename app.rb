@@ -1,7 +1,7 @@
 require 'bundler'
 Bundler.require()
 
-def fake_song{title, release_year, artist}
+def fake_song(title, release_year, artist)
   {:title => title.to_s, :release_year => release_year.to_s, :artist => artist.to_s}
 end
 
