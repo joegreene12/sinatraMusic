@@ -1,2 +1,2 @@
 # sinatraMusic
-Yeahhh Boyyyy, Flavor Flavvv! is not going to be apart of this collection.
+Yeah Boy! Flavor flav is not going to be apart of this collection.
